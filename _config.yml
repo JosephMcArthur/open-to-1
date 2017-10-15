@@ -9,8 +9,8 @@
 title: Open In Order To...
 email: Joe@sparcopen.org
 description: What can Open do for you?
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "http://openinorder.to/" # the base hostname & protocol for your site
+baseurl: "/open-to-1" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
 gems:
   - jekyll-redirect-from
 # Social settings
